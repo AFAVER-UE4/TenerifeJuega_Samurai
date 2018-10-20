@@ -1,3 +1,8 @@
 Intermediate/
 Saved/
-imagens/
+Binaries/
+DerivedDataCache/
+*.sln
+*.sdf
+*.suo 
+
